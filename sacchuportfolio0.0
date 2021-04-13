@@ -1,0 +1,6 @@
+get init 
+git add README.md
+git commit -m "first commit"
+git branch -main 
+git remote add origin https://github.com/sachinmehra/sachinmehra.git/
+git push -u orgin main
